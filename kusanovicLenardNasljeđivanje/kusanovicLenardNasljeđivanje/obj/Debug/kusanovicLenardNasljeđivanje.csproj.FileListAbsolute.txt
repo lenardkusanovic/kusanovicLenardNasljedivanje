@@ -1,0 +1,6 @@
+C:\Users\Kuso\Desktop\Lenard Skola\kusanovicLenardNasljeđivanje\kusanovicLenardNasljeđivanje\bin\Debug\kusanovicLenardNasljeđivanje.exe.config
+C:\Users\Kuso\Desktop\Lenard Skola\kusanovicLenardNasljeđivanje\kusanovicLenardNasljeđivanje\bin\Debug\kusanovicLenardNasljeđivanje.exe
+C:\Users\Kuso\Desktop\Lenard Skola\kusanovicLenardNasljeđivanje\kusanovicLenardNasljeđivanje\bin\Debug\kusanovicLenardNasljeđivanje.pdb
+C:\Users\Kuso\Desktop\Lenard Skola\kusanovicLenardNasljeđivanje\kusanovicLenardNasljeđivanje\obj\Debug\kusanovicLenardNasljeđivanje.csprojAssemblyReference.cache
+C:\Users\Kuso\Desktop\Lenard Skola\kusanovicLenardNasljeđivanje\kusanovicLenardNasljeđivanje\obj\Debug\kusanovicLenardNasljeđivanje.exe
+C:\Users\Kuso\Desktop\Lenard Skola\kusanovicLenardNasljeđivanje\kusanovicLenardNasljeđivanje\obj\Debug\kusanovicLenardNasljeđivanje.pdb
